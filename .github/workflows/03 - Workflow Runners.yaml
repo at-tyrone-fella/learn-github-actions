@@ -14,7 +14,7 @@ jobs:
   widows-echo:
    runs-on: widows-latest
    steps:
-    - name: Show OS
+    - name: Show OS runner
       shell: bash
       run: |
         echo "This job is running on a windows runner"
