@@ -12,7 +12,7 @@ jobs:
           echo "This job is running on an ubuntu runner"
           echo "Runner OS: $RUNNER_OS"
   widows-echo:
-   runs-on: widows-latest
+   runs-on: windows-latest
    steps:
     - name: Show OS runner
       shell: bash
