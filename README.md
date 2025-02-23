@@ -1,1 +1,1 @@
-This reository is to learn github actins.
+Repository containing all examples and codes for the Github Actions course. This has been edited.
