@@ -1,1 +1,1 @@
-This reository is to learn github actins.
+This repository is to learn github actions with examples and codes.
